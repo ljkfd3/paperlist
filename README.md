@@ -12,6 +12,10 @@ Natural Language Inference over Interaction Space
 Enhanced LSTM for Natural Language Inference
 <br>ACL2017
 
+##  BiMPM
+Bilateral Multi-Perspective Matching for Natural Language Sentences. 
+<br>IJCAI 2017
+
 ## MatchPyramid
 Text Matching as Image Recognition
 <br>AAAI16
@@ -20,6 +24,4 @@ Text Matching as Image Recognition
 A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations
 <br>AAAI16
 
-##  BiMPM
-Bilateral Multi-Perspective Matching for Natural Language Sentences. 
-<br>IJCAI 2017
+
